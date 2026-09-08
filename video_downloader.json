@@ -16,6 +16,8 @@
   "appzy_bannerId": "ca-app-pub-3940256099942544/9214589741",
   "adsPriority": "banner",
     "appzy_forwardClick": "3",
+    "appzy_forwardClick_launcher":"1",
+    "appzy_forwardClick_reels":"3",
     "appzy_backClick": "1",
     "appzy_securityWarning": "1",
     "appzy_splashTime": "14",
