@@ -28,7 +28,7 @@
     "appzy_bannerIdCategory":"",
     "appzy_nativeIdHistory":"",
     "appzy_bannerIdHistory":"",
-  "adsPriority": "native",
+  "adsPriority": "banner",
     "appzy_forwardClick": "2",
     "appzy_backClick": "0",
     "appzy_securityWarning": "1",
