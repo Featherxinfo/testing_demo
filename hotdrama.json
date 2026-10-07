@@ -10,6 +10,8 @@
     "appzy_interstialStatus": "1",
     "appzy_nativeStatus": "1",
     "appzy_bannerStatus": "1",
+    "appzy_rewardedStatus":"1",
+    "appzy_rewardedId":"ca-app-pub-3940256099942544/5224354917",
     "appzy_appOpenId": "ca-app-pub-3940256099942544/9257395921",
     "appzy_interstitialId": "ca-app-pub-3940256099942544/1033173712",
     "appzy_nativeId": "",
